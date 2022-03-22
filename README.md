@@ -1,3 +1,3 @@
    ### Hi there 👋 I'm Wahyuna
 
-- I'm studying about software development
+<b>- I'm studying about software development</b>
