@@ -1,3 +1,3 @@
-   <p style="margin-left: 2px;>### Hi there 👋 I'm Wahyuna</p>
+   ### Hi there 👋 I'm Wahyuna
 
-<b>- I'm studying about software development</b>
+<p style="font-weight:600">- I'm studying about software development</p>
