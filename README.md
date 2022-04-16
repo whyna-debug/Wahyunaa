@@ -1,12 +1,14 @@
-<center>
 <section id="about">
+  <div align="center">
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
+</div>
 <p align="center">I am a software developer</p>
 <br />
 <br />
 </section>
 <hr />
 <section id="language">
+  <div align=center>
 <h3>Programming language</h3>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -17,23 +19,29 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <hr />
+</div>
 <section>
 <section id="tools">
+  <div align="center">
     <h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
 </p>
+  </div>
 </section>
 <hr />
 <br />
 <section>
+  <div align="center">
 <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=Wahyunaa&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 <br />
-<br />
+  </div>
 </section>
 <hr />
+<br />
 <section>
+<div align="center">
 ![](https://komarev.com/ghpvc/?username=Wahyunaa&color=blue)
+</div>
 </section>
-</center>
