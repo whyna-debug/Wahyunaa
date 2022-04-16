@@ -4,7 +4,6 @@
 </div>
 <b><p align="center">I am a software developer</p></b>
 </section>
-<br>
 <section id="language">
   <div align=center>
 <h3>Language</h3>
