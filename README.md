@@ -3,8 +3,7 @@
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
 <p align="center">I am a software developer</p>
-<br />
-<br />
+<br>
 </section>
 <hr />
 <section id="language">
@@ -31,17 +30,13 @@
   </div>
 </section>
 <hr />
-<br />
 <section>
   <div align="center">
 <img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=Wahyunaa&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<br />
   </div>
 </section>
 <hr />
-<br />
 <section>
 <div align="center">
-![](https://komarev.com/ghpvc/?username=Wahyunaa&color=blue)
-</div>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </section>
