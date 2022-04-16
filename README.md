@@ -1,14 +1,12 @@
 <section id="about">
   <div align="center">
-<h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
+<h1>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h1>
 </div>
 <p align="center">I am a software developer</p>
-<br />
-<br />
 </section>
 <section id="language">
   <div align=center>
-<h3>Programming language</h3>
+<h2>Programming language</h2>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
