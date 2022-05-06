@@ -1,5 +1,5 @@
 <section id="about">
-  <div align="left">
+  <div align="center">
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
 <div align="center">
@@ -7,7 +7,7 @@
 </div>
 </section>
 <section id="language_skill">
-  <div align=left>
+  <div align=center>
 <h3>Language skill</h3>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -18,8 +18,3 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 <br />
-<section>
-  <div align="left"> 
-<br />
-  </div>
-</section>
