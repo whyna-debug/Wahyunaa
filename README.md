@@ -3,7 +3,7 @@
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
 <div align="center">
-<img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.jpg" width="505"/>
+<a href="http://github.com/wahyunaa><img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.jpg" width="505"/></a>
 </div>
 </section>
 <section id="language_skill">
@@ -17,4 +17,4 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
-<br />
+</section>
