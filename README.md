@@ -2,12 +2,12 @@
   <div align="center">
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
-<div align="center">
+<div align="left">
 <img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.jpg" width="505"/>
 </div>
 </section>
 <section id="language_skill">
-  <div align=center>
+  <div align=left>
 <h3>Language skill</h3>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -19,7 +19,7 @@
 </p>
 <br />
 <section>
-  <div align="center"> 
+  <div align="left"> 
 <br />
   </div>
 </section>
