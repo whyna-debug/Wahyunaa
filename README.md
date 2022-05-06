@@ -3,7 +3,7 @@
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
 <div align="center">
-<img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.png" width="505"/>
+<img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.jpg" width="505"/>
 </div>
 </section>
 <section id="language_skill">
