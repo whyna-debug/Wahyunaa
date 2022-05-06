@@ -4,9 +4,9 @@
 </div>
 <p align="center">I am a software developer</p>
 </section>
-<section id="language">
+<section id="language_skill">
   <div align=center>
-<h3>Language</h3>
+<h3>Language skill</h3>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
