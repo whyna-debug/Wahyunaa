@@ -19,8 +19,7 @@
 </p>
 <br />
 <section>
-  <div align="center">
-<img width="350" align="center" src="https://github-readme-stats.vercel.app/api?username=Wahyunaa&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+  <div align="center"> 
 <br />
   </div>
 </section>
