@@ -2,7 +2,7 @@
   <div align="center">
 <h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" />, I'm Wahyuna</h2>
 </div>
-<p align="center">I am a software developer</p>
+<img id="wahyuna" src="assets/img/wahyuna.png" width="150"/>
 </section>
 <section id="language_skill">
   <div align=center>
