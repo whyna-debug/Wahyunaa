@@ -1,6 +1,6 @@
 <section id="about">
   <div align="center">
-<h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" width="32" />, I'm Wahyuna</h2>
+<h2>Hi <img height="24" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="hi" width="30" />, I'm Wahyuna</h2>
 </div>
 <div align="center">
 <img id="wahyuna"alt="wahyuna"src="assets/img/wahyuna.jpg" width="505"/>
